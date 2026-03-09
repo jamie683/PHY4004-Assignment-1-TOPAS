@@ -17,25 +17,28 @@ The repository is provided to ensure **reproducibility of the simulation methodo
 ---
 
 ## Repository Structure
-Assignment1_TOPAS_Code/
-│
+
+```
+Assignment_1_TOPAS_Code/
+
 ├── section_3_1/
-│ Proton depth-dose simulation in water
-│
+│   Proton depth-dose simulation in water
+
 ├── section_3_2/
-│ Carbon energy matching using a bisection search
-│
+│   Carbon energy matching using a bisection search
+
 ├── section_3_3/
-│ Water equivalent thickness (WET) calculation
-│
+│   Water equivalent thickness (WET) calculation
+
 ├── section_3_4/
-│ Stopping power comparison and interpretation
-│
+│   Stopping power comparison and interpretation
+
 ├── section_3_5/
-│ Radial scattering analysis for bone inserts
-│
+│   Radial scattering analysis for bone inserts
+
 └── section_3_6/
-Lead thickness matching and beam broadening analysis
+    Lead thickness matching and beam broadening analysis
+```
 
 Each folder contains:
 
@@ -87,3 +90,4 @@ This repository contains **only the simulation inputs and analysis code** used t
 Jamie McAteer  
 MSci Physics with Astrophysics  
 Queen's University Belfast
+
