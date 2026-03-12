@@ -34,7 +34,7 @@ Assignment_1_TOPAS_Code/
 │   Stopping power comparison and interpretation
 
 ├── section_3_5/
-│   Radial scattering analysis for bone inserts
+│   Radial scattering analysis for aluminium inserts
 
 └── section_3_6/
     Lead thickness matching and beam broadening analysis
@@ -90,4 +90,5 @@ This repository contains **only the simulation inputs and analysis code** used t
 Jamie McAteer  
 MSci Physics with Astrophysics  
 Queen's University Belfast
+
 
